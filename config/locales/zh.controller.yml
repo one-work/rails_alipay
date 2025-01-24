@@ -1,6 +1,7 @@
 zh:
   alipay:
     admin:
+      title: 支付宝
       apps:
         index:
           title: 应用
