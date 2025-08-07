@@ -14,8 +14,8 @@
   </div>
   <div data-show-target="item" class="visibility-hidden">
     <%= button_to({ action: 'edit_cert', id: model.id }, class: 'button is-small is-borderless') do %>
-      <i class="fa-solid fa-certificate text-info"></i>
-      <span class="pl-1"><%= t('.edit_cert.title') %></span>
+      <%= svg_tag 'certificate', class: 'icon text-info' %>
+      <span class="ml-1"><%= t('.edit_cert.title') %></span>
     <% end %>
   </div>
 </td>
