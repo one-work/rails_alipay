@@ -1,5 +1,6 @@
 # RailsAlipay
-Short description and motivation.
+
+[![所有组件](https://github.com/one-work/rails_alipay/actions/workflows/engine.yml/badge.svg)](https://github.com/one-work/engine)
 
 ## Usage
 How to use my plugin.
